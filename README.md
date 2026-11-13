@@ -106,5 +106,3 @@ Information Technology Student
 GitHub: [@monikasuri018](https://github.com/monikasuri018)
 
 ---
-
-⭐ If you find this project interesting, consider giving the repository a star!
